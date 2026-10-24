@@ -1,0 +1,6 @@
+{
+  "name": "Szkolna Biblioteka 1–8",
+  "description": "Aplikacja do przeglądania podręczników, zeszytów ćwiczeń, zadań i rzetelnych odpowiedzi dla klas 1–8 szkoły podstawowej.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
